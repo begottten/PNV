@@ -1,3 +1,4 @@
+![1](1.png)
 ## 4.7.200 Приборы ночного видения
 ## Содержание
 1. Что такое прибор ночного видения?
@@ -73,6 +74,7 @@
 
 ## Список литературы
 
-1. https://revolution.allbest.ru/war/00251933_0.html
-2. https://student.zoomru.ru/fiz/pribory-nochnogo-videniya/205900.1677177.s1.html
-3.https://www.stud24.ru/technology/pribory-nochnogo-videniya-i-teplovizory/211027-617183-page1.html
+1. **[Albest.ru](https://revolution.allbest.ru/war/00251933_0.html)** 
+2. **[Student](https://student.zoomru.ru/fiz/pribory-nochnogo-videniya/205900.1677177.s1.html)**
+3. **[stud24.ru](https://www.stud24.ru/technology/pribory-nochnogo-videniya-i-teplovizory/211027-617183-page1.html)**
+
